@@ -30,3 +30,5 @@ python manage.py runserver
 
 
 Click on this http://127.0.0.1:8000/ to run applications on the browser
+# screenshots
+<img src="Pictures/capture1.png">
